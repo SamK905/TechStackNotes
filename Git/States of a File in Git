@@ -1,0 +1,20 @@
+1. Untracked:
+    Files not tracked by version control system (VCS)
+
+2. Unmodified
+    Files that have not been changed since added to vesion control system (VCS)
+
+3. Modified
+    Files that have been changed since added to version control system (VCS)
+
+4. Staged
+    Files added to the staging area and are ready to be committed
+
+5. Committed
+    Files added to VCS & given a unique commit ID. Tracked by VCS
+
+6. Unmerged
+    Files changed in different branches & not yet merged
+
+7. Merged
+    Files changed in different branches & merged into a single version
