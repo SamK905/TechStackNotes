@@ -1,0 +1,52 @@
+1. Repository
+    - It contains files, commits and branches
+    - This is the core component of Git
+    - Major features:
+      - History
+      - Changes
+      - Configuration
+
+2. Working Directory
+    - Local directory were user makes changes to the actual files
+
+3. Index (or staging Area)
+    - Intermediate area that tracks changes to be committed
+
+4. Commits
+    - A snapshot of changes saved to the git history
+
+5. Branches
+    - Parallel version of the repository that diverges from the main working project
+
+6. Tags
+    - A reference pointing to a specific point in git history, often used for release
+
+7. HEAD
+    - A reference to the last commit in the currently checked-out branch
+
+8. Remote Reposiory
+    - A version of the repo that is hosted on a reote server (typically online)
+
+9. Merge
+    - The act of combining branch revisions & changes in a repository
+
+10. Fetch 
+    - Downloading objects & references from another repository
+
+11. Push
+    - Sending local commits to the remote repository
+
+12. clone
+    - A copy of a git repository from one location to another
+
+13. Hooks
+    - Custom scripts triggered by various git events to automate tasks
+
+14. .git Folder
+    - Directory where git stores metadata & object files for the repo
+
+15. pull
+    - Fetching changes from a remote repository & merging them into a local branch
+
+
+
