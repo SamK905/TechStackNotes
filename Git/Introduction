@@ -1,0 +1,39 @@
+Source Code
+  - Instructions written by programmers
+  - Usually text files in a programming language
+  - Basis for executed computer programs
+
+Source Code Management (SCM)
+  - System for tracking changes in code
+  - Manages source code repositories
+  - Facilitates team collaboration on code
+
+Version Control System (VCS)
+  - It tracks and manage changes to a software code over time
+  - It facilitate collaboration, allowing multiple developers to work on the same codebase simultaneously
+  - It enables reverting to previous vesion and history and documentation of code development.
+  - Examples:
+    - Git
+        - Distributed VCS, widely used for its flexibility and offline capabilities
+    - Subversion (SVN)
+        - Centralized VCS that maintains version history on a central server
+    - Concurrent Version System (CVS)
+        - One of the oldest VCS, its centralized and laid the foundation for many other VCS tools
+    - BitKeeper
+        - A istributed VCS by Canonical, designed to be easy to use and adaptable to a variety of workflows
+    - TFS (Team Foundation Server)
+        - A centralized VCS integrated with Microsoft's application lifecycle management tools
+
+Difference between SCM and VCS
+  - SCM includes broader aspects of code management including branching, merging, and repository hosting, while VCS specifically deals with the change history of files
+  - VCS is a component of SCM; VCS focuses on verioning, SCM encompasses overall code lifecycle management
+  - SCM often includes tools for build, testing, and deployment, going beyond the scope of mere version control offered by VCS
+
+GitHub: Git repository hosting
+GitLab: Comprehensive Git platform
+Bitbucket: Git code management
+SVN: Alternative to Git
+CVS: Predecessor to Git
+
+
+
