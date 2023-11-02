@@ -1,0 +1,59 @@
+1. Repository (Repo):
+    A directory or storage space where your projects can live
+
+2. Clone:
+    A copy of a repository that lives on your computer instead of on a website's server
+
+3. Fork:
+    A personal copy of someone else's project, allowing you to make changes without affecting the original
+
+4. Branch:
+    A parallel version of a repository, contained within the repo but does not affect the primary or master branch
+
+5. Commit:
+    A snapshot of your repository at a specific point in time, recording changes to the project
+
+6. Merge:
+    Taking the changes from one branch and applying them into another, usually the master(or main) branch
+
+7. Pull Request (PR):
+    A request to merge your branch into the master branch of the original repo, often used for review.
+
+8. Push:
+    To send your local branch commits to the remote repository branch
+
+9. Pull:
+    To fetch and integrate changes from the remote repository to your local repo.
+
+10. Fetch:
+    To get the latest changes from a remote repo without merging them in
+
+11. Remote:
+    A common repository on a server that all team members use to exchange their changes
+
+12. Master/Main branch:
+    The default branch of a repository where all changes eventualy get merged
+
+13. Tag:
+    A marker to denote a significant point, like a version release in the repository's history
+
+14. Merge Conflict:
+    A difference that occurs when merging branches due to changes in the same part of the same files on different branches
+
+15. Checkout:
+    The act of switching between different versions or branches of a repository
+
+16. Stash:
+    A way to temporarily store changed, tracked files in order to switch branches without commiting the changes
+
+17. Rebase:
+    An alternative to merging, rebasing rewrites the changes of one branch onto another without creating a new commit
+
+18. Diff:
+    A term used to refer to the difference between two commits or changed files
+
+19. Pull:
+    A command used to fetch changes from a remote repository and immediately merge them into he local repository
+
+20. Issue:
+    In platfomr like GitHub, it refers to a way to track enhancements, tasks, or bugs for work on GitHub.
