@@ -1,0 +1,11 @@
+Clone
+  - Definition: It is a copy of a repository on your local machine
+  - Purpose: To have a local version to work on
+  - Upstream changes: Can pull changes directly from the original repository
+  - Contribution: Directly push to the original repository if you have write permissions
+
+Fork
+  - Definition: It is a copy of a repository on a hosting service (Ex: GitHub, etc.)
+  - Purpose: To have a own version to make changes without affeting the original project
+  - Upstream changes: Can sunc with original repo, but requires setting up an upstream remote & pull changes
+  - Contribution: Make changes in your fork & then submit a PR to the original repo
